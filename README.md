@@ -18,13 +18,19 @@ If the name is on the list they will not be selected as a winner.
 The raffle.txt is where you put the names of the Donors and the amount they have donated. It is very important that you put the names in correctly. It should look as follows:
 
 Name1
+
 Name2
+
 Name3
+
 Name4
 
 5
+
 10
+
 10
+
 10
 
 The first line should be the first name on the donor list. At the end of the list should be a line with nothing on it, not even 
