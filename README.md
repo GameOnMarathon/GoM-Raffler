@@ -15,17 +15,7 @@ ticker.wav, fanfare wave must be named fanfare.wav, and font must be named font.
 There is a file named "exclusion list.txt", you can update this with names manually or let the program add winners to the list. 
 If the name is on the list they will not be selected as a winner.
 
-The raffle.txt is where you put the names of the Donors and the amount they have donated. It is very important that you put the names in correctly. It should look as follows:
-
-Name1
-Name2
-Name3
-Name4
-
-5
-10
-10
-10
+The raffle.txt is where you put the names of the Donors and the amount they have donated. It is very important that you put the names in correctly. Each line should have one name on it only, after the list of names should be a line with nothing in it, after that the donations are listed 1 per line.
 
 The first line should be the first name on the donor list. At the end of the list should be a line with nothing on it, not even 
 a space. If there is a character on the separator line it will break the program. The line after the separator line should be the first donation amount. The first donation amount is the amount the first donor had donated. In the above example, Name1 has donated 5 dollars. 
